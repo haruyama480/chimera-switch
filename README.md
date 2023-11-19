@@ -37,7 +37,7 @@
 失敗
 | ハウジング | ステム | 状態 | 発見者 | 備考 |
 | :-: | :-: | :-: | :-: | :-: |
-| [Kailh Super Speed系](https://shop.yushakobo.jp/products/4278) | [Cherry MX Speed Silver](https://shop.yushakobo.jp/products/cherry-mx) | fixed-open | haruyama480 | - |
+| [Kailh Super Speed系](https://shop.yushakobo.jp/products/4278) | [Cherry MX Speed Silver](https://shop.yushakobo.jp/products/cherry-mx) | fixed-close | haruyama480 | - |
 
 
 
